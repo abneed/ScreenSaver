@@ -1,2 +1,2 @@
 # ScreenSaver
-ScreenSaver for Windows.
+A screensaver for Windows.
